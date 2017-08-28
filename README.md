@@ -11,3 +11,5 @@ hi
 - spark.executor.memory -> 1개 executor 가 먹는 메모리
 
 -> driver에 1g 주고 executor에 2g 줘도 실행된다 -> 드라이버랑 익스큐터는 별개인게 밝혀짐
+
+나머지는 뭐 별 볼게없음
