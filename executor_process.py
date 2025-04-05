@@ -88,7 +88,7 @@ def init(sysPath):
     sockClose = sockLib.sockClose
     
     # get yolo v2 instance 
-    mInference = infer.YOLOV2_XIILAB()
+    mInference = infer.YOLOV2()
     isInit = True
     
 
